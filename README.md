@@ -1,5 +1,7 @@
 # Universal-Dominion
 
+NOTE: Some files/folders dubbed under temp name known as Multiplayer Galaga in place of Universal Dominion.
+
 CSCI 150 Class Project with 4 other team members using Github for source control.
 
 Unity game editor files for team project "Universal Dominion" using Photon &amp; XAMPP.
