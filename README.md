@@ -2,7 +2,9 @@
 
 NOTE: Some files/folders dubbed under temp name known as Multiplayer Galaga in place of Universal Dominion.
 
-CSCI 150 Class Project with 4 other team members using Github for source control.
+CSCI 150 Class Project with 4 other team members using Github for source control & Discord for Communication
+
+Utilizes the Agile and Scrum Methodology to conceptualize a viable product within a given time frame.
 
 Unity game editor files for team project "Universal Dominion" using Photon &amp; XAMPP.
 
